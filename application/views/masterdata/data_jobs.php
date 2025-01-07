@@ -2,7 +2,7 @@
 <section class="content-header">
     <h1>
         Data
-        <small>grant</small>
+        <small>Jobs</small>
     </h1>
 </section>
 
@@ -12,7 +12,7 @@
         <div class='col-md-12'>
             <div class='box '>
                 <div class='box-header'>
-                    <h3 class='box-title'>Data grant </h3>
+                    <h3 class='box-title'>Data Jobs </h3>
                     <button class="btn btn-primary my-2 pull-right mx-3" data-toggle="modal" data-target="#add-grant"><i class="fa fa-plus"></i> Add Data</button> &nbsp;
                     <!-- <button class="btn btn-success my-2 pull-right mx-2" data-toggle="modal" data-target="#m_import" style="margin-right: 3px;"><i class="fa fa-upload"></i> Import Data</button> &nbsp; -->
 

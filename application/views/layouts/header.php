@@ -151,7 +151,7 @@
                                 <li><a href="<?php echo site_url('MasterData/district'); ?>"><i class="fa fa-folder"></i>
                                         District</a></li>
                                 <li><a href="<?php echo site_url('MasterData/grant'); ?>"><i class="fa fa-folder"></i>
-                                        Grant</a></li>
+                                        Jobs</a></li>
                             </ul>
                         </li>
                     <?php } ?>
